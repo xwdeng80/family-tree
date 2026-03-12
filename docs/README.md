@@ -1,6 +1,7 @@
 # Family Tree Documentation
 
-This site contains family tree documentation and resources.
+This site contains Deng's family tree documentation and history.
+(这个网页记录无锡长安古庄邓家的家谱和历史)
 
 ## Pages
 - [Home](wiki/index.md)
