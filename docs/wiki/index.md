@@ -1,13 +1,12 @@
 # Home
 
-Welcome to the **Deng's Family Treen**! 
+Welcome to the **Deng's Family Tree**! 
 
-This site is dedicated to documenting, organizing, and sharing our family's history, 爱你and relationships.
+This site is dedicated to documenting, organizing, and sharing our family's history, and relationships.
 
 As times, many old memory is fading with generation. It is useful to track our root, our ancesterr, and our history.
 
 Here Deng's family is a very common family with its own interesting history. We came from a small town in the northgate of Wuxi city. 
-
 
 ## Quick Navigation
 
