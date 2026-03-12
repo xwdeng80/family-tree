@@ -1,11 +1,10 @@
 # Family Members Directory
 
-## John Doe (b. 1950)
+## DENG Jinghe （邓金和） (192*-19**)
 - **Birth Date**: January 15, 1950
 - **Location**: New York, USA
 - **Occupation**: Engineer
 - **Relationships**: Married to Jane Doe, Parent of Michael Doe
-- **Contact**: john@example.com
 - **Notes**: Retired in 2015 after 40 years in engineering
 
 ## Jane Doe (b. 1952)
