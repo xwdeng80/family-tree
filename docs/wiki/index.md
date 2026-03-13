@@ -2,9 +2,7 @@
 
 Welcome to the **Deng's Family Tree**! 
 
-This site is to share our family's history.  
-As time passes, many old memory is fading with generation.   
-It is useful to track our roots, our ancestery, and our history.
+This site is to share our family's history. As time passes, many old memory is fading with generation. It is useful to track our roots, our ancestery, and our history.
 
 Here Deng's family is a very common family with its own interesting history. 
 We come from a small town in the northgate of Wuxi city in China. 
