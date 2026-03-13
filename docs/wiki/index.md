@@ -9,6 +9,8 @@ We come from a small town in the northgate of Wuxi city in China.
 
 In old days, our hometown is called 无锡市长安镇古庄村, which is a small villiage surrounding by rivers. 
 
+https://maps.app.goo.gl/6yJ7QwPLyKBCn17SA
+
 ## Quick Navigation
 
 - [Family Members Directory](family-members-directory.md) - Complete list of family members with contact information
