@@ -1,43 +1,26 @@
 # Family Members Directory
 
-## DENG Jinghe （邓金和） (192*-19**)
+## DENG Jinghe （邓金和） (190*-19**)
 - **Birth Date**: January 15, 1950
-- **Location**: New York, USA
-- **Occupation**: Engineer
-- **Relationships**: Married to Jane Doe, Parent of Michael Doe
-- **Notes**: Retired in 2015 after 40 years in engineering
+- **Location**: Guzhuang, Wuxi, China
+- **Occupation**: Farmer
+- **Relationships**: Married to ***, Parent of DENG Xinggen (邓兴根)，DENG Fugen (邓福根)
+- **Notes**: 
 
-## Jane Doe (b. 1952)
-- **Birth Date**: March 22, 1952
-- **Location**: New York, USA
-- **Occupation**: Teacher
-- **Relationships**: Married to John Doe, Parent of Michael Doe
-- **Contact**: jane@example.com
-- **Notes**: Still teaching at the local high school
+## DENG Xinggen (邓兴根) (1928 - 2019)
+- **Birth Date**: May 24, 1928（龙年）
+- **Location**: Guzhuang, Wuxi, China
+- **Occupation**: Grain station worker
+- **Relationships**: Married to **, Parent of Deng Ronghua (邓荣华), Deng Yahua (邓亚华), Deng Qinghua (邓庆华), Deng Guohua (邓国华), and Deng Chunhua (邓春华) 
+- **Notes**:
 
-## Michael Doe (b. 1980)
-- **Birth Date**: July 10, 1980
-- **Location**: San Francisco, USA
-- **Occupation**: Software Developer
-- **Relationships**: Son of John & Jane Doe, Married to Sarah Doe, Brother of Emily Doe
-- **Contact**: michael@example.com
-- **Notes**: Works for a tech startup
+## DENG Fugen (邓福根) (194* - 2025)
+- **Birth Date**: May 24, 194*（龙年）
+- **Location**: Guzhuang, Wuxi, China
+- **Occupation**: Farmer
+- **Relationships**: Married to , Parent of 
+- **Notes**: 
 
-## Sarah Doe (b. 1982)
-- **Birth Date**: September 5, 1982
-- **Location**: San Francisco, USA
-- **Occupation**: Graphic Designer
-- **Relationships**: Married to Michael Doe
-- **Contact**: sarah@example.com
-- **Notes**: Freelance designer
-
-## Emily Doe (b. 1985)
-- **Birth Date**: November 20, 1985
-- **Location**: Boston, USA
-- **Occupation**: Doctor
-- **Relationships**: Daughter of John & Jane Doe, Sister of Michael Doe
-- **Contact**: emily@example.com
-- **Notes**: Pediatrician at Boston Children's Hospital
 
 ---
 
