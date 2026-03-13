@@ -1,7 +1,7 @@
 # Family Tree Documentation
 
 This site contains Deng's family tree documentation and history.  
-(这个网页记录无锡市惠山区长安镇古庄村邓荣华家的家谱和历史)
+(这个网页记录邓荣华家的家谱和历史)
 
 ## Pages
 - [Home](wiki/index.md)
