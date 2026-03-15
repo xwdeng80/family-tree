@@ -20,11 +20,11 @@
 - **Relationships**: Married to WANG Yueying (王月英), Parent of Deng Ronghua (邓荣华), Deng Yahua (邓亚华), Deng Qinghua (邓庆华), Deng Guohua (邓国华), and Deng Chunhua (邓春华) 
 - **Notes**:
 
-## DENG ** (邓**) (19** - 20**)  
-- **Birth Date**: May 24, 1928（龙年）
+##  DENG Yunxiu (邓云秀) (1926 - 20**)  
+- **Birth Date**: May 24, 1926（牛年）
 - **Location**: Guzhuang, Wuxi, China
-- **Occupation**: Grain station worker
-- **Relationships**: Married to Sun **, Parent of Sun Guoqing (孙国清), 
+- **Occupation**: Farmer
+- **Relationships**: Married to Sun Xisheng (孙锡生), Parent of Sun Guoqing (孙国清), Sun Zhengqing (孙正清)，Sun Yueqing (孙跃清)，Sun Lijuan (孙丽娟)，Sun Fengjuan (孙凤娟)，Sun Meijuan (孙美娟)
 - **Notes**:
 
 ## DENG ** (邓**) (19** - 20**)  
