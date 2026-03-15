@@ -41,8 +41,8 @@
 - **Relationships**: Married to Huang Jinbao (黄进宝), Parent of Huang Juming (黄菊明),  Huang Qiuming (黄秋明), Huang Fen (黄芬) 
 - **Notes**:
 
-## DENG Fugen (邓福根) (194* - 2025)
-- **Birth Date**: May, 194*（蛇年）
+## DENG Fugen (邓福根) (1941 - 2025)
+- **Birth Date**: May, 1941（蛇年）
 - **Location**: Guzhuang, Wuxi, China
 - **Occupation**: Farmer
 - **Relationships**: Married to Lu Wanying (陆婉英), Parent of Deng Zhenghua (邓振华)，Deng Qiuhua (邓秋华)，Deng Shenghua (邓生华) 
