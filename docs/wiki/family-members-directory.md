@@ -21,31 +21,31 @@
 - **Notes**:
 
 ##  DENG Yunxiu (邓云秀) (1926 - 20**)  
-- **Birth Date**: May 24, 1926（牛年）
+- **Birth Date**: May, 1926（牛年）
 - **Location**: Guzhuang, Wuxi, China
 - **Occupation**: Farmer
 - **Relationships**: Married to Sun Xisheng (孙锡生), Parent of Sun Guoqing (孙国清), Sun Zhengqing (孙正清)，Sun Yueqing (孙跃清)，Sun Lijuan (孙丽娟)，Sun Fengjuan (孙凤娟)，Sun Meijuan (孙美娟)
 - **Notes**:
 
-## DENG ** (邓**) (19** - 20**)  
-- **Birth Date**: May 24, 1928（龙年）
+## DENG Yunzhu (邓云珠) (1931 - 20**)  
+- **Birth Date**: May, 1931（ 年）
 - **Location**: Guzhuang, Wuxi, China
-- **Occupation**: Grain station worker
-- **Relationships**: Married to Deng **, Parent of Deng Kehua (), Deng Kemin (邓克明)
-- **Notes**:
+- **Occupation**: Textile Worker
+- **Relationships**: Married to Deng Lingeng (邓林根), Parent of Deng Yajuan (邓亚娟), Deng Kehua (邓克华), Deng Kemin (邓克明), Deng Yamei (邓亚妹)
+- **Notes**: 
 
-## DENG ** (邓**) (19** - 20**)  
-- **Birth Date**: May 24, 1928（龙年）
+## DENG Yunmei (邓云妹) (1936 - 20**)  
+- **Birth Date**: May, 1936（ 年）
 - **Location**: Guzhuang, Wuxi, China
-- **Occupation**: Grain station worker
-- **Relationships**: Married to Huang **, Parent of Huangjuming (黄菊明),  Huang (黄秋明), Huangfen (黄芬) 
+- **Occupation**: Farmer
+- **Relationships**: Married to Huang Jinbao (黄进宝), Parent of Huang Juming (黄菊明),  Huang Qiuming (黄秋明), Huang Fen (黄芬) 
 - **Notes**:
 
 ## DENG Fugen (邓福根) (194* - 2025)
-- **Birth Date**: May 24, 194*（*年）
+- **Birth Date**: May, 194*（*年）
 - **Location**: Guzhuang, Wuxi, China
 - **Occupation**: Farmer
-- **Relationships**: Married to , Parent of 
+- **Relationships**: Married to Lu Wanying (陆婉英), Parent of Deng Zhenghua (邓振华)，Deng Qiuhua (邓秋华)，Deng Shenghua (邓生华) 
 - **Notes**: 
 
 ---
