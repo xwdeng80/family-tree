@@ -1,11 +1,17 @@
 # Family Members Directory
+## DENG Kunxiang （邓坤祥） (188*-19**)
+- **Birth Date**: May, 1886 (年出生)
+- **Location**: Guzhuang, Wuxi, China
+- **Occupation**: Farmer
+- **Relationships**: Married to , Parent of DENG Jinghe（邓金和）
+- **Notes**: 
 
 ## DENG Jinghe （邓金和） (1906-19**)
-- **Birth Date**: 1906-*-* (马年)
+- **Birth Date**: May, 1906 (马年)
 - **Location**: Guzhuang, Wuxi, China
 - **Occupation**: Farmer
 - **Relationships**: Married to QIAN Jinxiu (钱金秀), Parent of DENG Yunxiu (邓云秀), DENG Xinggen (邓兴根)，DENG Yunzhu (邓云珠), DENG Yunmei (邓云妹), DENG Fugen (邓福根) 
-- **Notes**: 
+- **Notes**: He is the only child of his father DENG Kunxiang (邓坤祥). 
 
 ## DENG Xinggen (邓兴根) (1928 - 2019)
 - **Birth Date**: May 24, 1928（龙年）
