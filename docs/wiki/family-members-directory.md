@@ -6,7 +6,7 @@
 - **Relationships**: Married to , Parent of DENG Jinghe（邓金和）
 - **Notes**: 
 
-## DENG Jinghe （邓金和）(1906-19**)
+## DENG Jinghe (邓金和）(1906-19**)
 - **Birth Date**: May, 1906 (马年)
 - **Location**: Guzhuang, Wuxi, China
 - **Occupation**: Farmer
