@@ -42,7 +42,7 @@
 - **Notes**:
 
 ## DENG Fugen (邓福根) (194* - 2025)
-- **Birth Date**: May, 194*（*年）
+- **Birth Date**: May, 194*（蛇年）
 - **Location**: Guzhuang, Wuxi, China
 - **Occupation**: Farmer
 - **Relationships**: Married to Lu Wanying (陆婉英), Parent of Deng Zhenghua (邓振华)，Deng Qiuhua (邓秋华)，Deng Shenghua (邓生华) 
